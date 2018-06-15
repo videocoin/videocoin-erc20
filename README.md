@@ -1,7 +1,7 @@
 # VideoCoin ERC20 Smart Contract
 `ERC20` Compliant Smart Contract for VideoCoin built with [Truffle](http://truffleframework.com/) and [OpenZeppelin](https://openzeppelin.org/)
 
-## Setup
+## Developer Setup
 Install truffle
 ```
 npm install -g truffle
