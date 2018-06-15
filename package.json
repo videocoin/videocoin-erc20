@@ -1,0 +1,21 @@
+{
+  "name": "videocoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Devadutta Ghat <devadutta@videocoin.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "openzeppelin-solidity": "1.10.0",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.10"
+  },
+  "dependencies": {}
+}
